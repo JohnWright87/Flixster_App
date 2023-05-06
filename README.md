@@ -32,6 +32,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA3ZmFhMmU2NjE0ODQ5OTE1NDNiOGY4ZGVjNDg3YjA4Zjk3NWI3MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/X5nJnjgSnOuWfk0h4Z/giphy.gif' />
 
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFjOTQ3OTgzNDg2NTlmYWJiN2Q2NzI5YTdiNTExZDk0MWI5Y2UxMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ct8vOs9hVQE9IMBMI7/giphy.gif' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
