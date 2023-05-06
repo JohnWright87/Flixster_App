@@ -4,7 +4,7 @@ Submitted by: ** John Wright **
 
 ** Flixster_App ** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: ** 8-9 ** hours spent in total
+Time spent: ** 10-12 ** hours spent in total
 
 ## Required Features
 
@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y0OWNiNTcyMzNiY2E0NDhkNWRjY2M4M2Y3ZmY5MTAzODUzYjQ4YiZjdD1n/1Ae1dkW77ixyUY2dPe/giphy.gif' />
+<img src='![May-06-2023 16-02-31](https://user-images.githubusercontent.com/85178608/236644426-4b57c2cb-0381-43a4-9346-2cd53899b4ba.gif)
+' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -45,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [John Wright]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
