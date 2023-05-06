@@ -30,8 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![May-06-2023 16-02-31](https://user-images.githubusercontent.com/85178608/236644426-4b57c2cb-0381-43a4-9346-2cd53899b4ba.gif)
-' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA3ZmFhMmU2NjE0ODQ5OTE1NDNiOGY4ZGVjNDg3YjA4Zjk3NWI3MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/X5nJnjgSnOuWfk0h4Z/giphy.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
