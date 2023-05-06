@@ -4,28 +4,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="#252422"
-    >
+    android:background="@color/white">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/list"
         android:name="com.example.flixsterMoviesFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
         app:layoutManager="LinearLayoutManager"
-        tools:context=".MoviesFragment"
-        tools:listitem="@layout/movie_item"
-        />
-
-    <androidx.core.widget.ContentLoadingProgressBar
-        android:id="@+id/progress"
-        style="?android:attr/progressBarStyleLarge"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:indeterminate="true"
-        android:theme="@style/Widget.AppCompat.ProgressBar" />
-
+        tools:context="MoviesFragment"
+        tools:listitem="@layout/movie_item" />
 </FrameLayout>
